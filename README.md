@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @enigmawoman
 - 👀 I’m interested in Front End Web Development
-- 🌱 I’m currently learning Full Stack Coding
+- 🌱 I’m currently studying Full Stack Coding with the University of Birmingham
 - 💞️ I’m looking to collaborate on learning code
 
 <!---
