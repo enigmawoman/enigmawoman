@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @enigmawoman
 - 🌱 Full Stack Web Developer - Certificate, University of Birmingham
 - 💞️ I’m looking to collaborate on projects to further develop my skills - so reach out! 😉
+- 👩🏻‍🎨 Portfolio: https://enigmawoman.github.io/20-react-myportfolio/
 - 👀 Some examples of my work:
 - https://mern-movie-search-badbananas.herokuapp.com/ 
 - https://enigmawoman.github.io/Windows-XP-memories/ (this was just for fun 😉)
